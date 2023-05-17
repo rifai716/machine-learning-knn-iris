@@ -2,7 +2,7 @@
 ML using K-NN Method with Iris dataset
 
 # Step 1
-Install libraray
+Install library
 ``` 
 pip install -r requirements.txt
 ```
